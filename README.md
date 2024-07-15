@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JourdanLin
-- 👀 I’m interested in FDM printer.
+- 👀 I’m interested in 3D FDM printer.
 - 🌱 I’m currently learning Python and Raspberry Pi.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
